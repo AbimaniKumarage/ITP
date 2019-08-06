@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Scholership Finder</string>
+    <string name="acu">Name</string>
+    <string name="profile">Profile</string>
+    <string name="ANU_Profile">P</string>
+    <string name="notradame_profile">Notradame_profile</string>
+</resources>
